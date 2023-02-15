@@ -1,4 +1,4 @@
-# <div align="center">**CityLabs Front Repository**</div>
+# <div align="center">**SSANDE NFT Repository**</div>
 
 # 로컬 백엔드 url용 .env 생성
 

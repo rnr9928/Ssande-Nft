@@ -25,6 +25,8 @@ REACT_APP_BACK_URL='배포서버 주소'
 
 
 
+
+
 back 폴더
 ```
 NFT 민팅해줄 이미지가 들어있습니다
@@ -41,3 +43,10 @@ front 폴더
 컴포넌트와 페이지
 back 과 blockchain을 이어주는 프론트 기능들이 들어있습니다
 ```
+
+server 폴더
+```
+AWS에 등록할 build 폴더가 들어있습니다
+```
+
+

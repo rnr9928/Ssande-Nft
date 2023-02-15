@@ -22,6 +22,9 @@ REACT_APP_BACK_URL='배포서버 주소'
 ![화면 캡처 2023-02-15 094419](https://user-images.githubusercontent.com/97073355/218896004-245a8d5f-f04f-4b0c-8afc-c94ee07c49d2.png)
 
 
+
+
+
 back 폴더
 ```
 NFT 민팅해줄 이미지가 들어있습니다

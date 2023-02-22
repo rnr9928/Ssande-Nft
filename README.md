@@ -99,7 +99,7 @@ ERC721 Token(NFT)민팅 구현 및
 ### 3D Slide
 
 <!-- <br><br><br><br><br><br><br><br><br><br><br><br> -->
-```
+```JS
 
 유명한 NFT사진들로  3D 느낌이 나게 구현해봤습니다
 
@@ -123,7 +123,7 @@ ERC721 Token(NFT)민팅 구현 및
 ![asdasd](https://user-images.githubusercontent.com/97073355/218951174-69cf3424-08f9-4479-be10-170e9a5c84c0.png)
 
 
-```
+```JS
 메타마스크에 연결할 수 있는 버튼입니다
 
 
@@ -186,7 +186,7 @@ ERC721 Token(NFT)민팅 구현 및
 
 <img width="1499" alt="image" src="https://user-images.githubusercontent.com/107898015/218937998-7a3f64c9-da9c-4300-a330-8a5b08425cc8.png">
 
-```
+```JS
 
  { 
   saleTokenURIs &&

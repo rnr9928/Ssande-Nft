@@ -58,7 +58,7 @@ AWS에 등록할 build 폴더가 들어있습니다
 
 ## 📒 Documents
 
- <li><a href = "[https://frost-wok-c3f.notion.site/784be7e84fd94a11b6d3be2e00183cc8?v=a2faa34c9d1d4c17ae075cb61d011f82](https://www.notion.so/SSANDE-NFT-1-a9586595f1d64cdea197634ee21f8d06)">📖Project Info</a></li>
+ <li><a href = "https://www.notion.so/SSANDE-NFT-1-a9586595f1d64cdea197634ee21f8d06">📖Project Info</a></li>
  <br><br>
 
 ## 🧾 Project Description

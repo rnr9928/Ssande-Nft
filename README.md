@@ -53,7 +53,7 @@ AWS에 등록할 build 폴더가 들어있습니다
 
 ## 🖥️ Project Page
 
-<li><a href = "http://15.164.231.206">http://15.164.231.206</a></li>
+<li><a href = "ssande-d5c60.web.app">http://15.164.231.206</a></li>
 <br><br>
 
 ## 📒 Documents
